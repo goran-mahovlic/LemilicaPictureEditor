@@ -20,7 +20,8 @@ public class LemilicaPictureEditorMainFrame extends JFrame {
     private JLabel OpacityLabel, QualityLabel, DesaturateLabel, LogoLabel, WidthLogo, HightLogo;
     private JTextField LogoTextFiled, WidthTextFiled, HightTextFiled;
     private ImageIcon Background;
-    private String SelectedFilenamePart1 = "C:/Java/LemilicaPictureEditor/default";
+    //ovo moramo popraviti
+    private String SelectedFilenamePart1 = "C:/Java/LemilicaPictureEditor/LemilicaPictureEditor/default";
     private String SelectedFilenamePart2 = ".JPG";
     private String SelectedFilename, SelectedFilenameTemp;
     private String LogoText = "http://www.lemilica.com";
